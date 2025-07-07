@@ -1,17 +1,23 @@
-# Sistema de Gerenciamento de Tarefas em Java
-Este é um sistema simples de gerenciamento de tarefas desenvolvido em Java, projetado para execução via console. O projeto demonstra conceitos fundamentais de programação orientada a objetos e interação com o usuário.
+# 🗂️ Sistema de Gerenciamento de Tarefas em Java
 
-## Funcionalidades
+Este é um sistema simples de gerenciamento de tarefas desenvolvido em **Java**, com execução via console. O projeto demonstra conceitos fundamentais de **programação orientada a objetos** e interação com o usuário, sendo ideal para prática de lógica e estrutura de classes.
+
+---
+
+## ✅ Funcionalidades
 
 O sistema permite as seguintes operações:
 
-- **Adicionar Tarefa**: Incluir uma nova tarefa na lista.
-- **Listar Tarefas**: Visualizar todas as tarefas cadastradas, indicando se estão concluídas ou não.
-- **Atualizar Descrição da Tarefa**: Modificar a descrição de uma tarefa existente.
-- **Marcar Tarefa como Concluída**: Alterar o status de uma tarefa para concluída.
-- **Excluir Tarefa**: Remover uma tarefa da lista.
+- ➕ **Adicionar Tarefa** – Inclui uma nova tarefa na lista.  
+- 📋 **Listar Tarefas** – Exibe todas as tarefas com status de conclusão.  
+- ✏️ **Atualizar Descrição** – Permite modificar a descrição de uma tarefa existente.  
+- ✅ **Marcar como Concluída** – Altera o status de uma tarefa para concluída.  
+- 🗑️ **Excluir Tarefa** – Remove uma tarefa da lista.
 
-## Como Executar
+---
+
+## ▶️ Como Executar
+
 
 Para compilar e executar este projeto, siga os passos abaixo:
 
