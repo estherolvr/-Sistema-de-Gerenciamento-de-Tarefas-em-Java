@@ -1,6 +1,5 @@
 # Sistema de Gerenciamento de Tarefas em Java
-
-Este é um sistema simples de gerenciamento de tarefas desenvolvido em Java, projetado para ser executado via console. Ele demonstra conceitos básicos de programação orientada a objetos e interação com o usuário, sendo um excelente projeto para portfólio.
+Este é um sistema simples de gerenciamento de tarefas desenvolvido em Java, projetado para execução via console. O projeto demonstra conceitos fundamentais de programação orientada a objetos e interação com o usuário.
 
 ## Funcionalidades
 
